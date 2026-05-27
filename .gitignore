@@ -1,3 +1,14 @@
+# assignment folder specific 
+# Ignore everything in a1/
+a1/*
+
+# Except these
+!a1/A1_Q3.ipynb
+!a1/A1_Q4.ipynb
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
