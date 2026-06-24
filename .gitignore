@@ -1,6 +1,7 @@
 # assignment folder specific 
 
 # .DS_Store
+# exam1
 
 a1/*
 # Except these
@@ -11,6 +12,8 @@ a2/*
 # Except these
 !a2/Tsai_Steven_Assgn2_Q4.ipynb
 !a2/Tsai_Steven_Assgn2_Q5.ipynb
+!a2/Q2-5_JSD.ipynb
+
 
 
 
